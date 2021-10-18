@@ -1,7 +1,7 @@
 package com.iggorsbot.robots;
 
 public class Mark1 {
-    int power = 0;
+    int power = 100;
 
     public void setPower(int power) {
         this.power = power;
