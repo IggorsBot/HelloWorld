@@ -2,7 +2,7 @@ package com.iggorsbot.robots;
 
 public class Mark1 {
     int power = 10;
-    int cost = 0;
+    int cost = 100;
 
     public void setPower(int power) {
         this.power = power;
