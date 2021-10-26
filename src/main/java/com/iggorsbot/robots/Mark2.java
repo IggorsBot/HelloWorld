@@ -1,5 +1,5 @@
 package com.iggorsbot.robots;
 
 public class Mark2 {
-    int power = 20;
+    int power = 200;
 }
